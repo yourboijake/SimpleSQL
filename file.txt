@@ -1,1 +1,2 @@
 this is a text file
+i updated it, creating merge conflict with b2
